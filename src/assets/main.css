@@ -1,0 +1,10 @@
+@import './base.css';
+@import 'primeicons/primeicons.css';
+
+
+#app{
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  width: 99vw;
+  height: 100vh;
+}
